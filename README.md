@@ -30,7 +30,6 @@ Build settings and dependency versions are recorded in [foundry.toml](foundry.to
 claim-distributor/
 ├── contracts/   # Contract source
 ├── docs/        # Product documentation
-├── audits/      # Third-party audit reports (pending)
 └── test/        # Unit tests
 ```
 
